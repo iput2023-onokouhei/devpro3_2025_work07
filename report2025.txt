@@ -19,3 +19,4 @@ My GitHub account is "2531-narita". , 私のGitHubアカウントは"2531-narita
 iput2023miyaji, Hello world!!
 Taito1608, 授業いつも楽しいです！
 今日はありがとうございました。
+iput2023-miyazaki, 今日は昼に家系ラーメンを食べました。美味しかったです。
