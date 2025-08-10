@@ -1,4 +1,4 @@
-IPUT「IoTデバイスプログラミング３」（2025）の第10週に正式提示のワーク07の提出場所です。
+IPUT「IoTデバイスプログラミング３」（2025）の第10週に正式提示のワーク07の提出場所です。 
 GitHub.comのアカウントと「世界中に見られても困らないこと」を１行で後ろに追加で書いてください。
 
 ----
@@ -25,3 +25,5 @@ IPUT2023-Kohei, ウルトラマン・仮面ライダー・スーパー戦隊の�
 TK230158, I love Zion Suzuki from Parma Calcio 1913.
 IPUT-yoshiga, 生活習慣を直したいです
 iput2025_TH, I recommend Miso Ramen
+iput2021-azami, Azamiが追記しました。
+
